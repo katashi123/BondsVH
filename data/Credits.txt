@@ -1,0 +1,215 @@
+﻿    <block:-1,-2,100,50,offbot,center,Black>
+B O N D S
+
+
+
+
+
+
+\fs[22]Creators
+\fs[18]------------------------------------
+\fs[18]Kendrian
+
+\fs[18]BingBingBing
+
+
+
+\fs[22]Programming
+\fs[18]------------------------------------
+\fs[18]Kendrian
+
+
+
+\fs[22]Original Story and Script
+\fs[18]------------------------------------
+\fs[18]BingBingBing
+
+
+
+\fs[22]Script Writing and Story
+\fs[18]------------------------------------
+\fs[18]Pendragon
+
+
+
+\fs[22]Scene Direction
+\fs[18]------------------------------------
+\fs[18]BingBingBing
+
+
+
+\fs[22]Pickle Maker
+\fs[18]------------------------------------
+\fs[18]VGB
+
+
+
+\fs[22]Art
+\fs[18]------------------------------------
+\fs[18]BingBingBing
+
+
+
+\fs[22]Voice Direction & Audio Engineering
+\fs[18]------------------------------------
+\fs[18]Kendrian
+
+
+
+\fs[22]Menu and UI design
+\fs[18]------------------------------------
+\fs[18]Kendrian
+
+
+
+\fs[22]Voice Acting
+\fs[18]------------------------------------
+
+\fs[18]Robin - Puoppy
+
+\fs[18]Alicia - Andrastae
+
+\fs[18]Celine - Amy Saville (Instagram: @savillevoices_)
+
+    </block>
+
+    <block:300,0,5,5,10,center,Black>
+\fs[22]Thanks to all our awesome supporters on Patreon!
+\fs[18]-----------------------------------------------------
+\fs[18]Frank Zang
+\fs[18]Chen
+\fs[18]shadow
+\fs[18]Jake hagelin
+\fs[18]Sodom Gomorrha
+\fs[18]Yzothateg
+\fs[18]TheSorcerer
+
+    </block>
+
+    <block:300,0,5,5,10,center,Black>
+\fs[22]Thanks to all our awesome supporters on Patreon!
+\fs[18]-----------------------------------------------------
+\fs[18]CuvyanTaylor
+\fs[18]Ziprath
+\fs[18]Jyeoh
+\fs[18]Antonio Cardillo
+\fs[18]aronivars
+\fs[18]nick mooreside
+
+    </block>
+
+    <block:300,0,5,5,10,center,Black>
+\fs[22]Thanks to all our awesome supporters on Patreon!
+\fs[18]-----------------------------------------------------
+\fs[18]Renegade Doge	                    Samuel Padgett
+\fs[18]Buster Z                                 J482k
+\fs[18]Casper van der Weiden	                    Gregory Sokolov
+\fs[18]rodavlas                             Steve Jones
+\fs[18]Patricio Fuentes                    kuroko8462
+\fs[18]Sandwich MKII	                         as3749
+\fs[18]Michael Irwin                    HanXiao
+
+    </block>
+
+    <block:300,0,5,5,10,center,Black>
+\fs[22]Thanks to all our awesome supporters on Patreon!
+\fs[18]-----------------------------------------------------
+\fs[18]Garve                              Scott
+\fs[18]Bob Frankfort                        Bondomunk
+\fs[18]Fabio17                            Julius Beasley
+\fs[18]Joel Estrada Nava                    Alexander Bond
+\fs[18]Danquigny Timothee                    Jon Anderson
+\fs[18]VideogameBondage                    aram jung
+
+    </block>
+
+    <block:300,0,5,5,10,center,Black>
+\fs[22]Thanks to all our awesome supporters on Patreon!
+\fs[18]-----------------------------------------------------
+\fs[18]Adrian Grunhofer                    neosuduno
+\fs[18]Christopher Bull                      Mikhail Petrovic
+\fs[18]drdoom699                           Ediger
+\fs[18]Christopher Barbehenn	                       Mister-Dummy 
+\fs[18]Hellgete                               Stargat53
+\fs[18]John R Case                          aqua
+
+    </block>
+
+    <block:300,0,5,5,10,center,Black>
+\fs[22]Thanks to all our awesome supporters on Patreon!
+\fs[18]-----------------------------------------------------
+\fs[18]Ron Joseph                    Nathan Rudy
+\fs[18]Tom O'Donnell                    Joshua Silar
+\fs[18]sinbasara                    Andrew Ritter
+\fs[18]Adam                                   P
+\fs[18]Destroyerksb                     LuminousLunar
+
+    </block>
+
+    <block:300,0,5,5,10,center,Black>
+\fs[22]Thanks to all our awesome supporters on Patreon!
+\fs[18]-----------------------------------------------------
+\fs[18]ED3756	                     KoFSMG     
+\fs[18]Abruptlee                    Mako O'rosie
+\fs[18]Emil Scherbe                      No Way 
+\fs[18]hyrtnamr                         twilight908
+\fs[18]Dave                          PointLol
+\fs[18]James Lacey                       blisterdude123
+
+    </block>
+
+    <block:300,0,5,5,10,center,Black>
+\fs[22]Thanks to all our awesome supporters on Patreon!
+\fs[18]-----------------------------------------------------
+\fs[18]Gerard Bouchard                       David van Ieperen
+\fs[18]Monotone                         Верный
+\fs[18]현태 김                    Drake One
+\fs[18]Rigs                    TW
+\fs[18]Luca Mini                    Mokarashi
+\fs[18]Martino Bonaldo                     Matthew O Hall
+
+    </block>
+
+    <block:300,0,5,5,10,center,Black>
+\fs[22]Thanks to all our awesome supporters on Patreon!
+\fs[18]-----------------------------------------------------
+\fs[18]Yang Kane                    wondercat
+\fs[18]Natalie Keldan                       KolyaTheGopnik
+\fs[18]Bubonic                    Sean Long
+\fs[18]nubbs99                    yazora
+\fs[18]ムームー                     Tango
+\fs[18]kimseongjun                      Sumeroda
+
+    </block>
+
+    <block:300,0,5,5,10,center,Black>
+\fs[22]Thanks to all our awesome supporters on Patreon!
+\fs[18]-----------------------------------------------------
+\fs[18]Bullroy Deitrich                        SilentWolf
+\fs[18]Nietzchian                         Momo Trotro
+\fs[18]Akernis                    bla_rg 
+\fs[18]MaxFactor85                    OrenBarzilai
+\fs[18]Juan Perez                    Tyler Perez
+\fs[18]Samuel Gillespie                    
+
+
+    </block>
+
+    <block:300,0,5,5,10,center,Black>
+\fs[22]Thanks to all our awesome supporters on Patreon!
+\fs[18]-----------------------------------------------------
+\fs[18]Wyland                         Ireine
+\fs[18]Hour13                       Loony
+\fs[18]Eric McNeice                         DemonFish
+\fs[18]Littleshiro-kun                        Righ-Wing BDSM Guy
+\fs[18]Slacker                            Yuti
+\fs[18]Tied Kitsune                         BlakKnight
+\fs[18]Teawon Kim                    KeairaKat
+
+    </block>
+
+    <block:300,0,2,2,100,center,Black>
+
+\fs[24]Thank you for playing!
+
+    </block>
